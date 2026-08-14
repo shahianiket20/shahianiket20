@@ -78,7 +78,7 @@ A cybersecurity monitoring project designed to detect and monitor unauthorized a
 **Technologies:**
 `Cowrie` `Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript` `Chart.js` `Ubuntu`
 
-🔗 **Repository:** [View Project](https://github.com/shahianiket20)
+🔗 **Repository:** [View Project](https://github.com/shahianiket20/cowrie-honeypot-dashboard)
 
 ---
 
@@ -130,30 +130,6 @@ https://tryhackme.com/p/AniketSploit
 * **Google Cloud Skills Boost — Introduction to Generative AI**
 * **Google Cloud Skills Boost — Introduction to Large Language Models**
 
----
-
-## 🎯 Current Learning
-
-I'm currently focused on developing practical skills in:
-
-* 🔐 Cybersecurity & Ethical Hacking
-* 🌐 Network Security
-* 🧪 Security Labs & CTFs
-* 🐧 Linux & Security Tools
-* ☁️ Cloud Security
-* 🐍 Python for Security Automation
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahianiket20\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahianiket20\&layout=compact\&hide_border=true)
-
-</div>
 
 ---
 
