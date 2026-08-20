@@ -2,7 +2,7 @@
 
 # Hi, I'm Aniket Shahi
 
-### Cybersecurity Enthusiast | Networking & IT Security | Security Labs 
+### Cybersecurity Enthusiast | Networking & IT Security 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket%20Shahi-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/aniket-shahi-126618375/)
 [![GitHub](https://img.shields.io/badge/GitHub-shahianiket20-black?style=for-the-badge\&logo=github)](https://github.com/shahianiket20)
@@ -14,13 +14,11 @@
 
 ## About Me
 
-* 🎓 BSc (Hons) Computer Networking & IT Security
+* 🎓 BSc (Hons) Computer Networking and IT Security
 * 🛡️ Interested in cybersecurity, ethical hacking and network security
 * 🔍 Completed an Offensive Security internship at InRed Labs
 * 🧪 Developing practical security skills through TryHackMe labs and hands-on projects
-* 🐍 Building projects with Python, Flask and SQLite
 * 🐧 Working with Linux and security tools such as Kali Linux, Nmap and Metasploit
-* ☁️ Exploring AWS cloud technologies and cloud security
 * 🚀 Focused on continuously improving my technical and problem-solving skills
 
 ---
