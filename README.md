@@ -148,6 +148,6 @@ https://github.com/shahianiket20
 
 <div align="center">
 
-### 🚀 Learning. Building. Securing.
+###  Learning. Building. Securing.
 
 </div>
